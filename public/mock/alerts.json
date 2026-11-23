@@ -1,0 +1,82 @@
+[
+  {
+    "id": "alt-001",
+    "city": "New York",
+    "title": "Severe Flash Flood & Rain Inundation Watch",
+    "severity": "Critical",
+    "category": "Flash Flood",
+    "timestamp": "2026-11-20T16:45:00.000Z",
+    "coordinates": { "lat": 40.7128, "lon": -74.006 },
+    "aiExplanation": "Automated satellite synthetic aperture radar (SAR) combined with hydrologic runoff models projects urban surface accumulation exceeding 50mm within a 90-minute window.",
+    "safetyTips": [
+      "Do not attempt to drive or walk across inundated roads or underpasses.",
+      "Move critical electronics and valuables from basement level to higher floors.",
+      "Keep backup emergency power banks and flashlight charged.",
+      "Monitor local civil emergency broadcasts and transit disruption updates."
+    ],
+    "isRead": false
+  },
+  {
+    "id": "alt-002",
+    "city": "Mumbai",
+    "title": "High-Intensity Monsoon Thunderstorm & Gust Alert",
+    "severity": "High",
+    "category": "Thunderstorm",
+    "timestamp": "2026-11-20T16:15:00.000Z",
+    "coordinates": { "lat": 19.076, "lon": 72.8777 },
+    "aiExplanation": "Convective cloud top temperatures plummeted below -65°C over the coastal zone, triggering frequent cloud-to-ground lightning strikes and localized squalls up to 60 km/h.",
+    "safetyTips": [
+      "Disconnect sensitive home electronic appliances during heavy lightning bursts.",
+      "Stay away from open balconies, tall metal fences, and solitary trees.",
+      "Ensure window shutters and external fixtures are firmly bolted."
+    ],
+    "isRead": false
+  },
+  {
+    "id": "alt-003",
+    "city": "London",
+    "title": "Dense Fog & Reduced Navigational Visibility Warning",
+    "severity": "Medium",
+    "category": "Visibility",
+    "timestamp": "2026-11-20T14:30:00.000Z",
+    "coordinates": { "lat": 51.5074, "lon": -0.1278 },
+    "aiExplanation": "Radiational nocturnal cooling under low wind conditions produced an inversion layer trapping high relative humidity, dropping visibility below 250 meters across major roadways.",
+    "safetyTips": [
+      "Use low-beam fog headlights on motorways; do not rely solely on daytime running lights.",
+      "Double the standard following distance between vehicles.",
+      "Allow extra transit time for airport and rail service speed restrictions."
+    ],
+    "isRead": true
+  },
+  {
+    "id": "alt-004",
+    "city": "Dubai",
+    "title": "Extreme Heatwave & Solar Radiation Advisory",
+    "severity": "Medium",
+    "category": "Extreme Heat",
+    "timestamp": "2026-11-20T12:00:00.000Z",
+    "coordinates": { "lat": 25.2048, "lon": 55.2708 },
+    "aiExplanation": "Subtropical anticyclonic air mass subsidence is creating a thermal dome effect with surface temperatures projected to sustain 41°C with a heat index of 46°C.",
+    "safetyTips": [
+      "Hydrate continuously with electrolyte fluids, even without feeling direct thirst.",
+      "Limit strenuous outdoor activities between 11:00 AM and 4:30 PM.",
+      "Wear light-colored, loose-fitting UV-protective garments."
+    ],
+    "isRead": true
+  },
+  {
+    "id": "alt-005",
+    "city": "San Francisco",
+    "title": "Coastal Marine Wind Squall Advisory",
+    "severity": "Low",
+    "category": "High Wind",
+    "timestamp": "2026-11-20T10:00:00.000Z",
+    "coordinates": { "lat": 37.7749, "lon": -122.4194 },
+    "aiExplanation": "Moderate offshore thermal gradient creating sustained 25-30 km/h gusts through the Golden Gate strait. No infrastructure threat anticipated.",
+    "safetyTips": [
+      "High-profile vehicles should exercise caution when crossing exposed bridges.",
+      "Secure patio umbrellas and lightweight outdoor furniture."
+    ],
+    "isRead": true
+  }
+]

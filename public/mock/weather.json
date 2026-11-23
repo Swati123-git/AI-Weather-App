@@ -1,0 +1,32 @@
+{
+  "city": "New York",
+  "country": "USA",
+  "coordinates": { "lat": 40.7128, "lon": -74.006 },
+  "temperature": 19,
+  "feelsLike": 21,
+  "tempMin": 15,
+  "tempMax": 24,
+  "condition": "Rainy",
+  "description": "Scattered atmospheric moisture with rainy intervals",
+  "humidity": 74,
+  "windSpeed": 18.5,
+  "windDirection": "ENE (68°)",
+  "pressure": 1013,
+  "visibility": 9.8,
+  "uvIndex": 6,
+  "dewPoint": 12,
+  "cloudCover": 65,
+  "sunrise": "06:14 AM",
+  "sunset": "07:48 PM",
+  "lastUpdated": "2026-11-20T17:00:00.000Z",
+  "aqi": {
+    "value": 55,
+    "status": "Moderate",
+    "pm25": 14.5,
+    "pm10": 28.0,
+    "no2": 24.3,
+    "o3": 45.1,
+    "so2": 8.6,
+    "co": 410
+  }
+}

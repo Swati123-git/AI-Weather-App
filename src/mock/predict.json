@@ -1,0 +1,27 @@
+{
+  "city": "New York",
+  "model": "WeatherGen-AI v4.8 Hybrid Ensemble",
+  "timestamp": "2026-11-20T17:00:00.000Z",
+  "rainPrediction": {
+    "probability": 86,
+    "expectedVolumeMm": 32.4,
+    "peakWindow": "Next 2 to 4 hours",
+    "confidence": 91
+  },
+  "temperaturePrediction": {
+    "next6HoursDelta": -3.5,
+    "predictedAverage": 18,
+    "shiftDescription": "Sharp cold downdraft incoming",
+    "confidence": 88
+  },
+  "overallConfidence": 89.5,
+  "riskLevel": "High",
+  "aiExplanation": "Ensemble deep neural network detected an anomalous 850hPa moisture flux convergence colliding with an approaching upper-level cold front. High probability (86%) of intense precipitation and sudden 35+ km/h wind gusts.",
+  "keyModelFactors": [
+    { "name": "Barometric Gradient", "status": "Rapid Drop (-4.2 hPa/3h)", "impact": "High" },
+    { "name": "Moisture Saturation Index", "status": "92% Saturated", "impact": "High" },
+    { "name": "Radar Echo Vorticity", "status": "Elevated Shear Cell", "impact": "Medium" },
+    { "name": "Tropospheric Dewpoint Delta", "status": "+4.1°C convergence", "impact": "Medium" }
+  ],
+  "recommendedPrecaution": "Secure loose outdoor items, carry waterproof gear, and avoid low-lying prone drainage routes."
+}

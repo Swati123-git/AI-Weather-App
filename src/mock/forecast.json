@@ -1,0 +1,75 @@
+{
+  "city": "New York",
+  "hourly": [
+    { "time": "12 AM", "temperature": 16, "rainChance": 40, "humidity": 80, "windSpeed": 14, "condition": "Cloudy" },
+    { "time": "3 AM", "temperature": 15, "rainChance": 65, "humidity": 85, "windSpeed": 16, "condition": "Rainy" },
+    { "time": "6 AM", "temperature": 15, "rainChance": 85, "humidity": 90, "windSpeed": 19, "condition": "Rainy" },
+    { "time": "9 AM", "temperature": 18, "rainChance": 70, "humidity": 78, "windSpeed": 18, "condition": "Rainy" },
+    { "time": "12 PM", "temperature": 22, "rainChance": 45, "humidity": 65, "windSpeed": 20, "condition": "Partly Cloudy" },
+    { "time": "3 PM", "temperature": 24, "rainChance": 30, "humidity": 60, "windSpeed": 17, "condition": "Sunny" },
+    { "time": "6 PM", "temperature": 21, "rainChance": 25, "humidity": 68, "windSpeed": 15, "condition": "Sunny" },
+    { "time": "9 PM", "temperature": 18, "rainChance": 35, "humidity": 75, "windSpeed": 13, "condition": "Clear" }
+  ],
+  "daily": [
+    {
+      "day": "Tomorrow",
+      "date": "Nov 21",
+      "tempMax": 23,
+      "tempMin": 15,
+      "condition": "Rainy",
+      "rainChance": 80,
+      "windSpeed": 16,
+      "humidity": 75,
+      "uvIndex": 5,
+      "description": "Steady precipitation with localized wet road conditions"
+    },
+    {
+      "day": "Sunday",
+      "date": "Nov 22",
+      "tempMax": 21,
+      "tempMin": 14,
+      "condition": "Thunderstorm",
+      "rainChance": 88,
+      "windSpeed": 22,
+      "humidity": 82,
+      "uvIndex": 4,
+      "description": "Severe convective lightning and gusty downdrafts"
+    },
+    {
+      "day": "Monday",
+      "date": "Nov 23",
+      "tempMax": 24,
+      "tempMin": 16,
+      "condition": "Partly Cloudy",
+      "rainChance": 25,
+      "windSpeed": 14,
+      "humidity": 62,
+      "uvIndex": 6,
+      "description": "Clearing skies with mild afternoon solar radiation"
+    },
+    {
+      "day": "Tuesday",
+      "date": "Nov 24",
+      "tempMax": 26,
+      "tempMin": 17,
+      "condition": "Sunny",
+      "rainChance": 10,
+      "windSpeed": 12,
+      "humidity": 55,
+      "uvIndex": 7,
+      "description": "Unobstructed sunshine and calm atmospheric pressure"
+    },
+    {
+      "day": "Wednesday",
+      "date": "Nov 25",
+      "tempMax": 22,
+      "tempMin": 15,
+      "condition": "Clear",
+      "rainChance": 15,
+      "windSpeed": 14,
+      "humidity": 58,
+      "uvIndex": 6,
+      "description": "Comfortable breeze with crystal clear evening horizons"
+    }
+  ]
+}
