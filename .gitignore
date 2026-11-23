@@ -32,3 +32,12 @@ instance/
 *.db
 .vscode/
 dist/
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.git/
